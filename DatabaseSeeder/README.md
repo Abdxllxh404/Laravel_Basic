@@ -9,4 +9,4 @@
 
 - php artisan make:seeder AdminUserSeeder
 - php artisan db:seed --class=AdminUserSeeder
--php artisan db:seed
+- php artisan db:seed
