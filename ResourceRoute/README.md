@@ -8,6 +8,6 @@
 </p>
 
 
-php artisan make:controller ItemController
-php artisan make:controller ItemController --resource --model=Item
-php artisan route:list
+<p> php artisan make:controller ItemController</p>
+<p>php artisan make:controller ItemController --resource --model=Item</p>
+<p>php artisan route:list</p>
